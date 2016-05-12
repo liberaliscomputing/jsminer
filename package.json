@@ -1,0 +1,12 @@
+{
+	"name": "jsminer",
+  "version": "1.0.0",
+  "description": "A game for leaning computational constructs with JavaScript",
+  "main": "game.js",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {},
+  "author": "Meen Chul Kim",
+  "license": "MIT"
+}
